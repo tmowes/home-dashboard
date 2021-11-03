@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Woodcroft",
+    "corners": [
+      {
+        "color": "blue",
+        "symbolType": "disc",
+        "symbolAmount": 1,
+        "symbolColor": "orange"
+      },
+      {
+        "color": "red",
+        "symbolType": "disc",
+        "symbolAmount": 2,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "red",
+        "symbolType": "star",
+        "symbolAmount": 4,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "green",
+        "symbolType": "rectangle",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      }
+    ]
+  },
+  {
+    "name": "Campbell",
+    "corners": [
+      {
+        "color": "blue",
+        "symbolType": "disc",
+        "symbolAmount": 3,
+        "symbolColor": "orange"
+      },
+      {
+        "color": "red",
+        "symbolType": "star",
+        "symbolAmount": 4,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "red",
+        "symbolType": "disc",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "green",
+        "symbolType": "rectangle",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      }
+    ]
+  },
+  {
+    "name": "Cassedan",
+    "corners": [
+      {
+        "color": "blue",
+        "symbolType": "disc",
+        "symbolAmount": 3,
+        "symbolColor": "orange"
+      },
+      {
+        "color": "orange",
+        "symbolType": "disc",
+        "symbolAmount": 3,
+        "symbolColor": "green"
+      },
+      {
+        "color": "red",
+        "symbolType": "star",
+        "symbolAmount": 4,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "green",
+        "symbolType": "rectangle",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      }
+    ]
+  },
+  {
+    "name": "Pembridge",
+    "corners": [
+      {
+        "color": "blue",
+        "symbolType": "disc",
+        "symbolAmount": 3,
+        "symbolColor": "orange"
+      },
+      {
+        "color": "red",
+        "symbolType": "rose",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "red",
+        "symbolType": "star",
+        "symbolAmount": 4,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "green",
+        "symbolType": "rectangle",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      }
+    ]
+  }
+]
+
+
+[
+  {
+    "name": "Fergusson",
+    "corners": [
+      {
+        "color": "white",
+        "symbolType": "rectangle",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      },
+      {
+        "color": "green",
+        "symbolType": "none",
+        "symbolAmount": 0,
+        "symbolColor": "none"
+      },
+      {
+        "color": "green",
+        "symbolType": "none",
+        "symbolAmount": 0,
+        "symbolColor": "none"
+      },
+      {
+        "color": "white",
+        "symbolType": "rectangle",
+        "symbolAmount": 3,
+        "symbolColor": "blue"
+      }
+    ]
+  }
+]

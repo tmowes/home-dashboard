@@ -1,0 +1,14 @@
+appId: com.tmowes.home-dashboard
+productName: Home Dashboard App
+copyright: Copyright © 2021 Julio Cesar Mowes
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+win:
+  requestedExecutionLevel: requireAdministrator
+publish: null

@@ -1,0 +1,222 @@
+
+"An alliance between four clans gives birth to a new clan.
+Ancient heraldic law dictates the way the new clan's crest be created out of those from the allied clans,
+as seen in this example."
+
+
+  {
+    color: 'white',
+    symbolType: 'disc',
+    symbolAmount: 2,
+    symbolColor: 'none'
+  }
+
+
+ight, f
+
+our times
+
+
+ft and twice
+
+
+to the right
+
+
+[{"name":"Trolsbeyumpy","corners":[{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"},{"color":"white","symbolType":"rectangle","symbolAmount":3,"symbolColor":"red"},{"color":"white","symbolType":"rectangle","symbolAmount":3,"symbolColor":"red"},{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"}]},{"name":"Colville","corners":[{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"},{"color":"white","symbolType":"key","symbolAmount":2,"symbolColor":"green"},{"color":"white","symbolType":"key","symbolAmount":2,"symbolColor":"green"},{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"}]},{"name":"Woodcroft","corners":[{"color":"blue","symbolType":"disc","symbolAmount":1,"symbolColor":"orange"},{"color":"red","symbolType":"disc","symbolAmount":2,"symbolColor":"blue"},{"color":"red","symbolType":"star","symbolAmount":4,"symbolColor":"blue"},{"color":"green","symbolType":"rectangle","symbolAmount":3,"symbolColor":"blue"}]},{"name":"MacAulay","corners":[{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"},{"color":"white","symbolType":"crown","symbolAmount":1,"symbolColor":"black"},{"color":"white","symbolType":"crown","symbolAmount":1,"symbolColor":"black"},{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"}]},{"name":"Bruce","corners":[{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"},{"color":"white","symbolType":"key","symbolAmount":3,"symbolColor":"orange"},{"color":"white","symbolType":"key","symbolAmount":3,"symbolColor":"orange"},{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"}]},{"name":"Appin","corners":[{"color":"blue","symbolType":"disc","symbolAmount":1,"symbolColor":"none"},{"color":"blue","symbolType":"disc","symbolAmount":1,"symbolColor":"none"},{"color":"blue","symbolType":"disc","symbolAmount":2,"symbolColor":"black"},{"color":"green","symbolType":"cross","symbolAmount":2,"symbolColor":"none"}]},{"name":"Graham","corners":[{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"},{"color":"white","symbolType":"crescent","symbolAmount":4,"symbolColor":"black"},{"color":"white","symbolType":"crescent","symbolAmount":4,"symbolColor":"black"},{"color":"blue","symbolType":"none","symbolAmount":0,"symbolColor":"none"}]},{"name":"Rambelt","corners":[{"color":"blue","symbolType":"disc","symbolAmount":3,"symbolColor":"orange"},{"color":"red","symbolType":"disc","symbolAmount":3,"symbolColor":"blue"},{"color":"red","symbolType":"star","symbolAmount":4,"symbolColor":"blue"},{"color":"green","symbolType":"rectangle","symbolAmount":1,"symbolColor":"blue"}]}
+
+
+
+[{"name":"Woodcroft","corners":[{"color":"blue","symbolType":"disc","symbolAmount":1,"symbolColor":"orange"},{"color":"red","symbolType":"disc","symbolAmount":2,"symbolColor":"blue"},{"color":"red","symbolType":"star","symbolAmount":4,"symbolColor":"blue"},{"color":"green","symbolType":"rectangle","symbolAmount":3,"symbolColor":"blue"}]},{"name":"Campbell","corners":[{"color":"blue","symbolType":"disc","symbolAmount":3,"symbolColor":"orange"},{"color":"red","symbolType":"star","symbolAmount":4,"symbolColor":"blue"},{"color":"red","symbolType":"disc","symbolAmount":3,"symbolColor":"blue"},{"color":"green","symbolType":"rectangle","symbolAmount":3,"symbolColor":"blue"}]},{"name":"Cassedan","corners":[{"color":"blue","symbolType":"disc","symbolAmount":3,"symbolColor":"orange"},{"color":"orange","symbolType":"disc","symbolAmount":3,"symbolColor":"green"},{"color":"red","symbolType":"star","symbolAmount":4,"symbolColor":"blue"},{"color":"green","symbolType":"rectangle","symbolAmount":3
+
+
+  [
+    {
+      id: 0,
+      name: 'Hunter Northcott',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 2,
+      gender: 'M',
+      childIds: [ 3, 4, 5 ]
+    },
+    {
+      id: 1,
+      name: 'Rutherford Blackwood',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 6,
+      gender: 'M',
+      childIds: [ 7 ]
+    },
+    {
+      id: 2,
+      name: 'Dawn Northcott',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 0,
+      gender: 'F',
+      childIds: [ 3, 4, 5 ]
+    },
+    {
+      id: 3,
+      name: 'Darwin Northcott',
+      fatherId: 0,
+      motherId: 2,
+      spouseId: 7,
+      gender: 'M',
+      childIds: [ 8, 9, 14, 15 ]
+    },
+    {
+      id: 4,
+      name: 'Wendy Brassington',
+      fatherId: 0,
+      motherId: 2,
+      spouseId: 10,
+      gender: 'F',
+      childIds: []
+    },
+    {
+      id: 5,
+      name: 'Remington Northcott',
+      fatherId: 0,
+      motherId: 2,
+      spouseId: 11,
+      gender: 'M',
+      childIds: [ 12, 13 ]
+    },
+    {
+      id: 6,
+      name: 'Misty Blackwood',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 1,
+      gender: 'F',
+      childIds: [ 7 ]
+    },
+    {
+      id: 7,
+      name: 'Maida Northcott',
+      fatherId: 1,
+      motherId: 6,
+      spouseId: 3,
+      gender: 'F',
+      childIds: [ 8, 9, 14, 15 ]
+    },
+    {
+      id: 8,
+      name: 'Sherman Northcott',
+      fatherId: 3,
+      motherId: 7,
+      spouseId: 16,
+      gender: 'M',
+      childIds: [ 17 ]
+    },
+    {
+      id: 9,
+      name: 'Payton Addington',
+      fatherId: 3,
+      motherId: 7,
+      spouseId: 18,
+      gender: 'F',
+      childIds: [ 19, 20, 21 ]
+    },
+    {
+      id: 10,
+      name: 'Winston Brassington',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 4,
+      gender: 'M',
+      childIds: []
+    },
+    {
+      id: 11,
+      name: 'Tatum Northcott',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 5,
+      gender: 'F',
+      childIds: [ 12, 13 ]
+    },
+    {
+      id: 12,
+      name: 'Grayson Northcott',
+      fatherId: 5,
+      motherId: 11,
+      spouseId: 22,
+      gender: 'M',
+      childIds: [ 23, 24, 25 ]
+    },
+    {
+      id: 13,
+      name: 'Cynric Northcott',
+      fatherId: 5,
+      motherId: 11,
+      spouseId: 26,
+      gender: 'M',
+      childIds: [ 27, 28, 29 ]
+    },
+    {
+      id: 14,
+      name: 'Corliss Tinley',
+      fatherId: 3,
+      motherId: 7,
+      spouseId: 30,
+      gender: 'F',
+      childIds: []
+    },
+    {
+      id: 15,
+      name: 'Vala Atterton',
+      fatherId: 3,
+      motherId: 7,
+      spouseId: 31,
+      gender: 'F',
+      childIds: [ 32 ]
+    },
+    {
+      id: 16,
+      name: 'Demelza Northcott',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 8,
+      gender: 'F',
+      childIds: [ 17 ]
+    },
+    {
+      id: 17,
+      name: 'Baron Northcott',
+      fatherId: 8,
+      motherId: 16,
+      spouseId: 33,
+      gender: 'M',
+      childIds: [ 34 ]
+    },
+    {
+      id: 18,
+      name: 'Tranter Addington',
+      fatherId: -1,
+      motherId: -1,
+      spouseId: 9,
+      gender: 'M',
+      childIds: [ 19, 20, 21 ]
+    },
+    {
+      id: 19,
+      name: 'Eaton Addington',
+      fatherId: 18,
+      motherId: 9,
+      spouseId: 35,
+      gender: 'M',
+      childIds: []
+    },
+    {
+      id: 20,
+      name: 'Huntley Addington',
+      fatherId: 18,
+      motherId: 9,
+      spouseId: -1,
+      gender: 'M',
+      childIds: []
+    },
